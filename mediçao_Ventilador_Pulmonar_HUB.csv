@@ -1,5 +1,4 @@
-Tabela 2: Resultado das análises das medições realizadas na calibração dos ventiladores do HUB ;;;;;;;;;;
-VP;RP cmH2O/L/s;P;Média;u(TipoA);u (TipoB);U (TipoA);U (Tipo A+B);Comparaçao u((Tipo B) / u(Tipo A);Apenas U (TipoA) ABNT);U(TipoA+B) ABNT
+VP;RP cmH2O/L/s;P;M�dia;u(TipoA);u (TipoB);U (TipoA);U (Tipo A+B);Compara�ao u((Tipo B) / u(Tipo A);Apenas U (TipoA) ABNT);U(TipoA+B) ABNT
 A;20;10;10,07;0,004597;0,086603;0,01;0,17;18,84;OK;OK
 A;20;15;15,1;0,003707;0,086603;0,01;0,17;23,36;OK;OK
 A;20;20;20,09;0,006869;0,086603;0,02;0,17;12,61;OK;OK
